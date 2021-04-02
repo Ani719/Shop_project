@@ -5,7 +5,6 @@ public class Product {
     private int price;
 
 
-
     public Product(String brand, String name, String description, int price) {
         this.brand = brand;
         this.name = name;

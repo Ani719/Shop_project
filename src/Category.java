@@ -1,4 +1,4 @@
-public class Category {
+public class Category implements ProductDescription {
    private String  name;
    public int productCount;
 
